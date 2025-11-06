@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Cybersecurity Projects
 - [Wazuh SIEM Implementation](https://github.com/rosario7832/Implementation-of-Wazuh-SIEM)
-- [Setup a Basic Home Lab Running Active Directory Oracle VirtualBox | Add Users with PowerShell](https://github.com/rosario7832/Setup-a-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell/blob/main/README.md)
+- [Setup a Basic Home Lab Running Active Directory Oracle VirtualBox | Add Users with PowerShell](https://github.com/rosario7832/Setup-a-Basic-Home-Lab-Running-Active-Directory-Oracle-VirtualBox-Add-Users-w-PowerShell/tree/main)
 - SIEM Honeypot Lab
 
 ---
