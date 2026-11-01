@@ -22,6 +22,7 @@ I'm based in Costa Rica and actively seeking my first SOC Analyst role.
 
 | Badge | Certification | Issuer | Year |
 |---|---|---|---|
+| [🔴 Verify](https://certificaciones.academia-ciberseguridad.com/verificar/6104b586bd6d145eb30453938c01d749) | Técnico en Ciberseguridad (Versión 2) | Academia de Ciberseguridad | 2026 |
 | [🔴 Verify](https://www.credly.com/badges/96f627c4-1b98-4b2a-b964-33caa528b773) | CompTIA Security+ | CompTIA | 2023 |
 | [🔵 Verify](https://www.credly.com/badges/2be11858-9805-4956-a9cb-dc38ef6f9a43) | CyberOps Associate | Cisco | 2025 |
 | [☁️ Verify](https://www.credly.com/badges/f037ff06-b458-46e9-815c-8c826c3e0c80) | AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
